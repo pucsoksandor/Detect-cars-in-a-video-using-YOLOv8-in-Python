@@ -4,3 +4,4 @@ In this project, I will present the implementation of training the XOLOv8 model 
 
 After the training phase, I assessed the model's effectiveness through a testing process conducted on video data. This step is crucial to validate the model's generalization capabilities and its ability to accurately detect and classify objects in real-world scenarios. The following sections will delve into the details of the dataset preparation, training methodology, and the results obtained from the video testing. Through this assignment, I aim to demonstrate the practical application of the XOLOv8 model in computer vision tasks and highlight its performance on a real-world dataset.
 
+![image](https://github.com/pucsoksandor/Detect-cars-in-a-video-using-YOLOv8-in-Python/assets/126880586/3a4784a5-c751-409e-b6dc-d6a9937c8dac)
