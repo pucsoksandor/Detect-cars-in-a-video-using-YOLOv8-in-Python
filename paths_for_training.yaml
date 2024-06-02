@@ -1,0 +1,9 @@
+# Train/val/test sets
+path: C:\Users\pucso\Desktop\Vehicle_detecting\dataForYOLO # dataset root dir
+train: images\train # train images 
+val: images\val # val images 
+test: images\test #test images
+
+# Classes
+names:
+  0: car
